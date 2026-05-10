@@ -89,4 +89,3 @@ Tweak `config.py`:
 
 
 ---
-*Created for Portfolio Demonstration*
